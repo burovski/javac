@@ -1,4 +1,4 @@
-ï»¿import java.io.*;
+Ã¯Â»Â¿import java.io.*;
 import java.util.*;
 public class Lesson1 {
     public static void main(String[] args) {
@@ -37,6 +37,6 @@ public class Lesson1 {
 			return "Compound\nYour number:"+a;  
 			}    		
 		}
-		return "Ïğîñòîå\nÂàøå ÷èñëî:"+a;
+		return "Simple\nYour number:"+a;
 	}
 }
